@@ -13,7 +13,6 @@ This project is a Spring Boot application written in Kotlin that provides APIs t
 - Java 17 or higher
 - Maven
 - Kotlin
-- H2 Database (in-memory)
 
 ## Project Structure
 
